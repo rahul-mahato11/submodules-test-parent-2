@@ -1,1 +1,3 @@
-console.log("common/insadex.js")
+console.log("common/sss")
+console.log("common/subtree")
+console.log("common/child")
